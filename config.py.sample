@@ -1,0 +1,11 @@
+"""Username and password of myhome.tsinghua.edu.cn"""
+username = '2016xxxxxxx'
+password = 'xxxxxxxxxxx'
+
+"""email address to inform"""
+receivers = ['xxx@qq.com', 'xxx@gmail.com']
+
+"""smtp configs of the sender"""
+mail_host = 'mails.tsinghua.edu.cn'
+mail_username = 'xxxx@mails.tsinghua.edu.cn'
+mail_password = 'xxxx'
